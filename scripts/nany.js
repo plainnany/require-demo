@@ -1,3 +1,3 @@
 define({
-    name: 'hello, world'
+    name: 'hello, nany'
 })
